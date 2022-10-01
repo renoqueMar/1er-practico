@@ -1,0 +1,30 @@
+*{
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+nav{
+    height: 15%;
+}
+nav li{
+    color: aliceblue;
+}
+nav img{
+    width: 120px;
+}
+.nav-link{
+    color: white;
+}
+
+footer{
+    color: azure;
+    background-color: #214d21;
+    height: 20%;
+}
+.form-control{
+    width: 15%;
+    display: inline-block;
+}
+.card-img{
+    height: 30%;
+}
